@@ -1,0 +1,3 @@
+db_user : siglokas_egi_keba
+db_name : siglokas_lokasi_wisata
+db_pwd : k6hhMnt8.e3c

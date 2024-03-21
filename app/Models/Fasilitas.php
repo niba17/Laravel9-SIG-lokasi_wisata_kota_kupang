@@ -1,0 +1,16 @@
+<?php
+
+namespace App\Models;
+
+use App\Models\LokasiWisata;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class Fasilitas extends Model
+{
+    use HasFactory;
+
+    protected $table = 'fasilitas';
+    protected $guarded = ['id'];
+
+}
